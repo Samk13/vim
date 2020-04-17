@@ -65,13 +65,41 @@ Scanning the canvas
 	    v
 	    j
 
-"Why hjkl and not jkl;?"
-===
-Because go to the next class
+yy - Copies a line
 
-"They invented the mouse, why not use that?"
-===
-La la la la, I can't hear you
+yw - Copies a word
+
+y$ - Copies from where your cursor is to the end of a line
+
+v - Highlight one character at a time using arrow buttons or the h, k, j, l buttons
+
+V - Highlights one line, and movement keys can allow you to highlight additional lines
+
+p - Paste whatever has been copied to the unnamed register
+
+d - Deletes highlighted text
+
+dd - Deletes a line of text
+
+dw - Deletes a word
+
+D - Deletes everything from where your cursor is to the end of the line
+
+d0 - Deletes everything from where your cursor is to the beginning of the line
+
+dgg - Deletes everything from where your cursor is to the beginning of the file
+
+dG - Deletes everything from where your cursor is to the end of the file
+
+x - Deletes a single character
+
+u - Undo the last operation; u# allows you to undo multiple actions
+
+Ctrl + r - Redo the last undo
+
+. - Repeats the last action
+
+4. Vim commands 
 
 Getting from a to b: Motions
 ===
