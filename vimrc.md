@@ -7,6 +7,7 @@ call plug#begin('~/.vim/plugged')
 
 "Git  ====
 Plug 'https://github.com/tpope/vim-fugitive.git'
+
 "vim tools
 Plug 'itchyny/lightline.vim'
 
