@@ -55,8 +55,8 @@ set incsearch
 "set line number
 set number
 
-"Vim sets    ================================================
-"Keybindings  ===============================================
+"Vim sets    ============================================
+"Keybindings  ===========================================
 " auto close brackets
 inoremap " ""<left>
 inoremap ' ''<left>
@@ -66,8 +66,8 @@ inoremap { {}<left>
 inoremap {<cr> {<cr>}<esc>o
 inoremap {;<cr> {<cr>};<esc>o
 nnoremap <c-p> :files<cr>
-"Keybindings ================================================
-"Plugins section ============================================
+"Keybindings ============================================
+"Plugins section ========================================
 "FZF
 set rtp+=/usr/local/opt/fzf
 
@@ -77,4 +77,4 @@ set laststatus=2
 set t_Co=256
 set background=dark
 
-"end Plugins section ========================================
+"end Plugins section ====================================
