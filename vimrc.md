@@ -1,4 +1,4 @@
-#My .Vimrc
+#My .vimrc settings
 
 ```vim
 if empty(glob('~/.vim/autoload/plug.vim'))
