@@ -5,19 +5,19 @@
 "Install Plugins =========================================
 call plug#begin('~/.vim/plugged')
 
-"Git  ====
+"Git                                                  ====
 Plug 'https://github.com/tpope/vim-fugitive.git'
 
-"vim tools
+"vim tools                                            ====
 Plug 'itchyny/lightline.vim'
 
-"Syntax highlightighting ====
+"Syntax highlightighting                              ====
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'pangloss/vim-javascript'
 Plug 'posva/vim-vue'
 Plug 'jwalton512/vim-blade'
 
-"Themes ====
+"Themes                                               ====
 Plug 'morhetz/gruvbox'
 Plug 'junegunn/goyo.vim'
 call plug#end()
