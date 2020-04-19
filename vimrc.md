@@ -78,3 +78,12 @@ set t_Co=256
 set background=dark
 
 "end Plugins section ====================================
+
+```
+
+# auto complete : 
+
+follow instructions here: 
+
+
+[instructions](https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions)
