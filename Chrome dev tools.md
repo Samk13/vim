@@ -5,6 +5,7 @@ toggle mode on off :
 document.designMode = "on"
 document.designMode = "off"
 ```
+-----
 
 # monitor events
 
@@ -17,7 +18,7 @@ to turn it off
 ```javascript
 unmonitorEvents($0)
 ```
-
+-----
 # Eager evaluation 
 
 you can tooggle this option in the console tab inside the gear icon on the right 
