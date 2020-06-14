@@ -23,4 +23,7 @@ unmonitorEvents($0)
 you can tooggle this option in the console tab inside the gear icon on the right 
 by checking this option "Eager evaluation" you can see the command result in the consol before it get executed
 
+# add you own snippets in chrome "super usfull! "
+you can check [snippet template site]{http://bgrins.github.io/devtools-snippets/}
+
 
